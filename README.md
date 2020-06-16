@@ -1,4 +1,4 @@
-# Movies_wrangling_analysis_R_Julia
+# Movies_wrangling_analysis_in_R_Julia
  Data wrangling and analysis using movie datasets obtained from the following sources:
 
 1)	La Fabbrica della Realtà – The first data source used was through this website. This file contained six csv files, and for the purposes of the project, the two datasets used were movies metadata.csv and credits.csv.  
